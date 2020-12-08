@@ -1,4 +1,4 @@
-# ON template project
+# ON project overview documentation template
 
 **Open Next Project Template**
 
