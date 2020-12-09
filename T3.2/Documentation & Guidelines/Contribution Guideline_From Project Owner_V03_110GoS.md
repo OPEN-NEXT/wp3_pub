@@ -22,12 +22,12 @@ Step 3: Describe what each of them are and how to work with the different types
 
 Step 4: Make sure the contributors know your wishes and requests
 - licenses
-- type of documenation required
+- type of documentation required
 - color scheme 
 - Modularity rules, etc.
 
 Note to the project owner:
-- Make sure the documentation is suitable for differnet groups of people with diverse knowledge
+- Make sure the documentation is suitable for different groups of people with diverse knowledge
 - Consider providing useful links to provide more related information 
 - maybe also name or try to connect with them personally to get them further involved
 
