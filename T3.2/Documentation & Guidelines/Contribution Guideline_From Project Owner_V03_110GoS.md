@@ -21,15 +21,15 @@ Step 3: Describe what each of them are and how to work with the different types
 - How you can assign yourself to the same
 
 Step 4: Make sure the contributors know your wishes and requests
-- licenses
-- type of documentation required
-- color scheme 
+- Licenses - provide a link to read up on the license
+- Type of documentation required - Provide a link to the basics rules/ or a template of how the documentation should look like
+- Color scheme 
 - Modularity rules, etc.
 
 Note to the project owner:
 - Make sure the documentation is suitable for different groups of people with diverse knowledge
 - Consider providing useful links to provide more related information 
-- maybe also name or try to connect with them personally to get them further involved
+- Maybe also name or try to connect with them personally to get them further involved
 
 
 In this documentation you will learn how to contribute for an open source project
@@ -73,25 +73,3 @@ There are also other communication options to discuss, review or share the relat
 * Synchronous chat channel: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 * **Website of the project itself**
 
-After reviewing the existing project, you can decide the issue you want to contribute, or the development you would like to share.
-
-* If it is an open issue, comment to that issue to let community know what you are working on.
-* If issua is not an update issue, make sure it is not already resolved.
-* Falls du issue heöffnet hast, aber dann später ein antwork gefunden hast, dokumentiere das und schließ die issue.
-
-## Prepare a fork
-
-To be able to work on your contribution, you need to create a copy of the version you want to contribute.
-
-* Create your copy
-* Rename your copy
-* Create a branch for your edits (if adressing issue, include issue number)
-* Reference any relevant issues
-
-## Make your changes
-
-* Make your changes, test locally
-* Try to use the same style, no reformatting
-* Test your changes
-
-## Pull request
