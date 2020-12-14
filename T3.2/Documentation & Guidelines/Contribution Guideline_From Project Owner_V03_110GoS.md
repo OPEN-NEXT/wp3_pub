@@ -9,7 +9,7 @@ Tell them how excited you are to have them as a part of your team.
 Here are a few tips and tricks to help you contribute on the project:
 
 Step 1: How to find a problem/request that you can help us with
-- Where can problems/requests be found? (e.g. github issues (./Contributing through forking.md), forum, website, slack, documentation- section x)
+- Where can problems/requests be found? (e.g. [github issues](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Contributing%20through%20forks), forum, website, slack, documentation- section x)
 - Provide links to where they can be found
 - If there are multiple locations then please explain what type of problems/requests can be found where
 
