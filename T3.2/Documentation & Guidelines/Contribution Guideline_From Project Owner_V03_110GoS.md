@@ -12,7 +12,7 @@ Step 1: How to find a problem/request that you can help us with
 - Where can problems/requests be found? (e.g. github issues, forum, website, slack, documentation- section x)
 - Provide links to where they can be found
 - If there are multiple locations then please explain what type of problems/requests can be found where, and how to work with them
-  - [Issues] (https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Contributing%20through%20forks) 
+  - [Issues](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Contributing%20through%20forks) 
   - Slack
 
 Step 2: If there is a need to register or login to access and contribute?
