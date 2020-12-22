@@ -37,10 +37,6 @@ Note to the project owner:
 In this documentation you will learn how to contribute for an open source project
 
 * Find a project
-* Prepare a fork
-* Make the changes/ contributions - in case of any particular format/code is wished for mention here
-* Add a changelog entry - in case of any particular format/code is wished for mention here
-* Push the change into the branch which was forked 
 * (types of contributions) Contribution process: -- Sources -- Submitting bugs -- Contributing changes
 * 
 
