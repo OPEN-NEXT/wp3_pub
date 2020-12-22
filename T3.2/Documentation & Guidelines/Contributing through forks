@@ -15,8 +15,10 @@ To be able to work on your contribution, you need to create a copy of the versio
 
 ## Make your changes
 
-* Make your changes, test locally
-* Try to use the same style, no reformatting
+* Make your changes/contributions, test locally 
+* Try to use the same style, no reformatting - in case of any particular format/code is wished for mention here
 * Test your changes
+* Add a changelog entry - in case of any particular format/code is wished for mention here
+* Push the change into the branch which was forked 
 
 ## Pull request
