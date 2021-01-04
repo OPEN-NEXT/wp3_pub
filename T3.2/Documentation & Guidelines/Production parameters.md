@@ -6,7 +6,7 @@ So that everyone knows how it needs to be manufactured here is a checklist for t
   - Size (Length, width, height), material/properties (material name and grade), alternative materials
 - First process 
   - Process name
-  - Process parameters 
+  - Process finish parameters 
     - Dimensions
     - Machine parameters (For: [Turning](https://technologicalprocess.com/turning-selection-of-machining-parameters/), Grinding, Milling, Drilling, Tapping, Laser cutting)
     - Design drawings/models
