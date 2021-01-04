@@ -8,7 +8,7 @@ So that everyone knows how it needs to be manufactured here is a checklist for t
   - Process name
   - Process parameters 
     - Dimensions
-    - Machine parameters (For: [Turning](https://technologicalprocess.com/turning-selection-of-machining-parameters/), Grinding, Milling, Drilling, Tapping)
+    - Machine parameters (For: [Turning](https://technologicalprocess.com/turning-selection-of-machining-parameters/), Grinding, Milling, Drilling, Tapping, Laser cutting)
 - Second process
 - Third process
 
@@ -24,5 +24,5 @@ So that everyone knows how it needs to be manufactured here is a checklist for t
 
 
 
-
-Source: https://link.springer.com/article/10.1007/s10845-020-01593-y
+References:
+https://link.springer.com/article/10.1007/s10845-020-01593-y
