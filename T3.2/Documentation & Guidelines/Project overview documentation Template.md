@@ -36,6 +36,11 @@ The ? section is where you can get the feedback you need related to your Project
 - How is it better than the alternative? Is it cheaper, more accesible, more appropriately designed?
 - What is the unique value proposition?
 
+## **PRODUCT FEATURES/FUNCTIONS**
+
+- What are the functions the product fulfils? 
+- What are the features the product offers? 
+
 ## **PROJECT VIABILITY**
 
 - How do you intend to test and measure how effectively your Hardware or Product Design meets the needs or problem you intend to solve?
