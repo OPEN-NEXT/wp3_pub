@@ -62,12 +62,13 @@ The ? section is where you can get the feedback you need related to your Project
 - List the materials and components that were used in this project so far. Where the choice of materials or components was for the purpose of arriving at the first prototype, you can make note of what the Product would *ideally* be made with.
 - What was the total cost of all your materials, components and supplies? For one unit or initial batch?
 
-## **THE MACHINES & PARTS**
+## **THE MANUFACTURING/PRODUCTION/ASSEMBLY**
 
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
 - Do you know the settings of the machines or tools?
 - What machines do you think will be needed moving forward?
 - What fabrication materials are needed?
+- Once manufactured or bought part are there, how does the assembly process look like? - Tip: support with images/vidoes for better understanding
 
 ## **ABOUT THE DESIGN**
 
