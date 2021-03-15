@@ -30,6 +30,13 @@ The ? section is where you can get the feedback you need related to your Project
 - For whom is your project designed or made for?
 - What prior work inspires you to develop your project?
 
+## **CURRENT STATUS**
+
+- What is the current stage of your project?
+- What are the next steps?
+- How can the community help? - provide links to the issue board/any suitable page.
+- Who are you looking for? In terms of skills needed
+
 ## **THE PROBLEM**
 
 - What is the problem or need that your Hardware or Product Design is for?
@@ -64,7 +71,7 @@ The ? section is where you can get the feedback you need related to your Project
 
 ## **THE MANUFACTURING/PRODUCTION/ASSEMBLY**
 
-- What are the general steps for production? (you can copy and paste the general parameters from **[here:]( https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Production%20parameters.md)**)
+- What are the general steps for production? (you can copy and paste the general parameters from **[here]( https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Production%20parameters.md)**)
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
 - Do you know the settings of the machines or tools? (you can copy and paste the parameters from here: **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**)
 - What fabrication materials are needed?
