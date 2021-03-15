@@ -70,7 +70,7 @@ The ? section is where you can get the feedback you need related to your Project
 - What fabrication materials are needed?
 - Once manufactured or bought part are there, how does the assembly process look like? - Tip: support with images/vidoes for better understanding
 <details><summary>Standard templates from which you can copy and paste parameters</summary>
-    - **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**
+  **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**
 </details>
 
 ## **ABOUT THE DESIGN**
