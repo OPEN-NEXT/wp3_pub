@@ -69,9 +69,12 @@ The ? section is where you can get the feedback you need related to your Project
 - What machines do you think will be needed moving forward?
 - What fabrication materials are needed?
 - Once manufactured or bought part are there, how does the assembly process look like? - Tip: support with images/vidoes for better understanding
+- **[Read this story about how to Embed a File throughout Wikifactory.](https://wikifactory.com/+wikifactory/stories/introducing-the-file-finder-and-embeds)**
 <details><summary>Standard templates from which you can copy and paste parameters</summary>
+    <p>
   **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**.
     **[Read this story about how to Embed a File throughout Wikifactory.](https://wikifactory.com/+wikifactory/stories/introducing-the-file-finder-and-embeds)**
+    </p>
 </details>
 
 ## **ABOUT THE DESIGN**
