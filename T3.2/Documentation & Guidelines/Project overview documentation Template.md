@@ -65,14 +65,13 @@ The ? section is where you can get the feedback you need related to your Project
 ## **THE MANUFACTURING/PRODUCTION/ASSEMBLY**
 
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
-3D printing parameters
-<details><summary>3D Printing parameters </summary>
-    sdfsdfsdfsd
-</details>
 - Do you know the settings of the machines or tools?
 - What machines do you think will be needed moving forward?
 - What fabrication materials are needed?
 - Once manufactured or bought part are there, how does the assembly process look like? - Tip: support with images/vidoes for better understanding
+<details><summary>Standard templates </summary>
+    - **3D printing parameters(https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**
+</details>
 
 ## **ABOUT THE DESIGN**
 
