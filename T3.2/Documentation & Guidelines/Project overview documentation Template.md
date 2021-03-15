@@ -65,7 +65,20 @@ The ? section is where you can get the feedback you need related to your Project
 ## **THE MANUFACTURING/PRODUCTION/ASSEMBLY**
 
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
-<script src="https://github.com/OPEN-NEXT/wp3_pub/blob/41c2a953e3ef6281f8bc3beb0aca5573a9bde7fa/T3.2/Documentation%20&%20Guidelines/3D%20Printing%20guideline.md"></script>
+3D printing parameters
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 - Do you know the settings of the machines or tools?
 - What machines do you think will be needed moving forward?
 - What fabrication materials are needed?
