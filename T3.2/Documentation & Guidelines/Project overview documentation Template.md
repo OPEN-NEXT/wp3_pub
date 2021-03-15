@@ -66,7 +66,8 @@ The ? section is where you can get the feedback you need related to your Project
 
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
 3D printing parameters
-<details><summary>3D Printing parameters sdfsdfsdfsd</summary>
+<details><summary>3D Printing parameters </summary>
+    sdfsdfsdfsd
 </details>
 - Do you know the settings of the machines or tools?
 - What machines do you think will be needed moving forward?
