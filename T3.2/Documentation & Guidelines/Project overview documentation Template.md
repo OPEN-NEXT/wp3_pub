@@ -64,8 +64,9 @@ The ? section is where you can get the feedback you need related to your Project
 
 ## **THE MANUFACTURING/PRODUCTION/ASSEMBLY**
 
+- What are the general steps for production? (you can copy and paste the general parameters from **[here:]( https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/Production%20parameters.md)**)
 - What machines or tools did you use to make your prototype(s)? (3D printer, CNC, laser cutter?)
-- Do you know the settings of the machines or tools? (you can copy and page the parameters from here: **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**)
+- Do you know the settings of the machines or tools? (you can copy and paste the parameters from here: **[3D printing parameters](https://github.com/OPEN-NEXT/wp3_pub/blob/master/T3.2/Documentation%20%26%20Guidelines/3D%20Printing%20guideline.md)**)
 - What fabrication materials are needed?
 - Once manufactured or bought part are there, how does the assembly process look like? - Tip: support with images/vidoes for better understanding
 
