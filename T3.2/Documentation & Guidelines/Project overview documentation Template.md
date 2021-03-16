@@ -123,6 +123,6 @@ Please include any additional information, files or documentation that you would
 - [ ] Give the names of authors and contributors who participated
 - [ ] License name and license file
 References used:
-1. [Reference 1] (https://wikifactory.com/+wikifactory/project-example-template/file/README.md)
+1. [Reference 1](https://wikifactory.com/+wikifactory/project-example-template/file/README.md)
 2. https://opensource.guide/starting-a-project/#writing-a-readme
 3. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
