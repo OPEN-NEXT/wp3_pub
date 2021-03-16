@@ -108,9 +108,9 @@ The ? section is where you can get the feedback you need related to your Project
 Please include any additional information, files or documentation that you would like us to consider inside the Files section of your Project.
 
 ## **If you’re a company or organization:**
--[ ] Talk to your legal department
--[ ] Make a marketing plan for the project
--[ ] Have a person looking after community management (identifying & inviting collaborators, responding to issues, reviewing and merging pull requests)
+- [ ] Talk to your legal department
+- [ ] Make a marketing plan for the project
+- [ ] Have a person looking after community management (identifying & inviting collaborators, responding to issues, reviewing and merging pull requests)
 
 References used:
 1. https://wikifactory.com/+wikifactory/project-example-template/file/README.md
