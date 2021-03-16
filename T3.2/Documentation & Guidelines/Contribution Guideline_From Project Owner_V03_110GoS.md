@@ -23,6 +23,7 @@ Step 3: Describe what each of them are and how to work with the different types
 - How you can assign yourself to the same
 
 Step 4: Make sure the contributors know your wishes and requests
+- A roadmap or Vision of the project
 - Licenses - provide a link to read up on the license
 - Type of documentation required - Provide a link to the basics rules/ or a template of how the documentation should look like
 - Color scheme 
