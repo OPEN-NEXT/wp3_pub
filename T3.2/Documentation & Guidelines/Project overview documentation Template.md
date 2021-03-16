@@ -108,7 +108,7 @@ The ? section is where you can get the feedback you need related to your Project
 Please include any additional information, files or documentation that you would like us to consider inside the Files section of your Project.
 
 ## **If you’re a company or organization:**
--[ ] Talk to your legal department
+-[ ] - [x]  Talk to your legal department
 
 -[ ] Make a marketing plan for the project
 
