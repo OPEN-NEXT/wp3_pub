@@ -30,6 +30,7 @@ The ? section is where you can get the feedback you need related to your Project
 - For whom is your project designed or made for?
 - What prior work inspires you to develop your project?
 - What is your goal?
+- Dont forget to select the license suitable for your project as well. A suggested read can be found **[here] (https://gitlab.opensourceecology.de/verein/projekte/cab/CAB/-/wikis/3-Further-Information/OSH-licenses)**.
 
 ## **CURRENT STATUS**
 
@@ -115,15 +116,7 @@ Please include any additional information, files or documentation that you would
 - [ ] Make a marketing plan for the project
 - [ ] Have a person looking after community management (identifying & inviting collaborators, responding to issues, reviewing and merging pull requests)
 
-## Checklist for README
 
-- [ ] Project title and one paragraph description
-- [ ] Prerequisites to install needed programs and how
-- [ ] Installing with a step by step explanation
-- [ ] A link to contributing file for details
-- [ ] Tag the repository for versions, and give a reference for versioning
-- [ ] Give the names of authors and contributors who participated
-- [ ] License name and license file
 References used:
 1. [Reference 1](https://wikifactory.com/+wikifactory/project-example-template/file/README.md)
 2. https://opensource.guide/starting-a-project/#writing-a-readme
