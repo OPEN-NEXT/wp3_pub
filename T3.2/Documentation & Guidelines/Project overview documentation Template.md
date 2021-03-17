@@ -34,6 +34,8 @@ The ? section is where you can get the feedback you need related to your Project
 ## **CURRENT STATUS**
 
 - What is the current stage of your project?
+  - use [OTRL](https://github.com/OPEN-NEXT/LOSH/blob/master/OTRL.md#concept) for the state of your technology
+  - and [ODRL](https://github.com/OPEN-NEXT/LOSH/blob/master/OTRL.md#concept) for the state of your documentation
 - What are the next steps?
 - How can the community help? - provide links to the issue board/any suitable page.
 - Who are you looking for? In terms of skills needed
