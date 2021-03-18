@@ -4,7 +4,7 @@ If it is an open issue, comment to that issue to let community know what you are
 If issue is not an update issue, make sure it is not already resolved.
 If you have opened an issue and if you have found an answer to it at a later point of time, dont froget to document it and close it.
 
-[Prepare a fork](# Prepare a fork)
+[Prepare a fork](## Prepare a fork)
 
 ## Prepare a fork
 
