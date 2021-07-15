@@ -87,7 +87,7 @@ The ? section is where you can get the feedback you need related to your Project
 - Show the process from ideation to the final design. What kind of design techniques did you use to develop this project? Do you have any original sketches or 3D designs that show how your design has evolved?
 - ?Embed your 3D files directly into your Readme either by referencing a file you have uploaded to your Project already, or by embedding a 3D file from your desktop already. **[Read this story about how to Embed a File throughout Wikifactory.](https://wikifactory.com/+wikifactory/stories/introducing-the-file-finder-and-embeds)**
 - Explain the different parts of the design if there are multiple design components. 
-- Make sure to share your design files in ??formats
+- Make sure to share your design files in open formats such as FreeCAD or openSCAD, if not the native format + neutral export format is preferrable.
 
 ## ELECTRONICS AND PROGRAMMING (To include if your project has an electronics component)
 
